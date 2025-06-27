@@ -1,8 +1,6 @@
 # Introduction to Data Science – Homework Collection
 
 This repository contains all homework assignments from the *Introduction to Data Science* course.  
-Each folder corresponds to one homework and includes Python notebooks, code files, datasets, or reports.
-
 ##  Folder Structure
 ```
 📂 hw0
