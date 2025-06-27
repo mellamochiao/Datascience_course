@@ -4,7 +4,7 @@ This repository contains all homework assignments from the *Introduction to Data
 Each folder corresponds to one homework and includes Python notebooks, code files, datasets, or reports.
 
 ## 📁 Folder Structure
-
+```
 📂 hw0
 ├── hw0_p1.py
 ├── hw0_p2.py
@@ -26,3 +26,4 @@ Each folder corresponds to one homework and includes Python notebooks, code file
 
 📂 hw3
 ├── decision_tree.ipynb
+```
